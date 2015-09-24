@@ -1,0 +1,1 @@
+This has been implemnted using java swing. Using this utility user can connect to master db of SQL Server 2012 using windows authentication.User can create and list logical devices. User can take the backup of any database which is there with in SQL Server 2012.User can also restore the database from logical device.
